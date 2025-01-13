@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://sohamlate-portfolio.vercel.app/](https://sohamlate.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sohamlate.vercel.app/](https://sohamlate.vercel.app/)
 
 - 💬 Ask me about **ReactJs,NodeJs,MongoDB,Mysql**
 
