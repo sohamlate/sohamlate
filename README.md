@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sohamslate24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12zVhGnMa-Y7rD5DZez_ycFRkYEwMRTNl/view?usp=sharing](https://drive.google.com/file/d/12zVhGnMa-Y7rD5DZez_ycFRkYEwMRTNl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PrjKfTSjer9ZrjnfMZUUHMo9_REVriyF/view](https://drive.google.com/file/d/1PrjKfTSjer9ZrjnfMZUUHMo9_REVriyF/view)
 
 - ⚡ Fun fact **Debugging code feels like a treasure hunt—sometimes you find a hidden gem that makes everything shine, and sometimes it’s just a quirky adventure with unexpected twists!**
 
